@@ -10,7 +10,7 @@ public class ToDoApp {
 
         // Create the main frame (window)
         JFrame frame = new JFrame("To-Do List App");
-        frame.setSize(400, 400);
+        frame.setSize(600, 400);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setLayout(new BorderLayout());
 
